@@ -2,9 +2,7 @@
 
 
 - 🔭 Front-end Web Developer
--->
-  
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AssiaChemlali&show_icons=true&theme=radical)
+   
   <br>
   
  ## 💻  Languages and Tools:
