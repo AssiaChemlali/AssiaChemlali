@@ -37,10 +37,10 @@
 
 
   <h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-   <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+<p><a href="https://github.com/AssiaChemlali" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-github?logo=github&color=%23181717" /></a> 
    <a href="https://www.linkedin.com/in/assia-chemlali/" target="_blank"><img alt="linkden" src="https://img.shields.io/badge/Linkedin-linkedin?style=flat-square&logo=Linkedin&logoColor=%23ffffff&color=%230A66C2" /></a> 
    <a href="https://www.instagram.com/assiachemlali/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/instagram-instagram?style=flat-square&logo=instagram&logoColor=%23ffffff&color=%23E4405F" /></a>
+    <a href="https://x.com/Assia_chemlalii" target="_blank"><img alt="X" src="https://img.shields.io/badge/x-x?logo=x&color=%23000000" /></a> 
 </p>
 
 
