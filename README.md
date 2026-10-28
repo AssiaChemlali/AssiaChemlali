@@ -2,7 +2,7 @@
 
 ###
 # 💫 About Me:
-👩‍💻 Frontend Developer passionate about building modern web applications.<br>⚛️ Working with React.js, Next.js, JavaScript, and TypeScript.<br>🎨 I enjoy creating clean, responsive, and user-friendly interfaces.<br>🛠️ Currently learning backend development with Node.js and Express.js.<br>🚀 Continuously improving my skills to become  Software Engineer.
+👩‍💻 Frontend Developer passionate about building modern web applications.<br>⚛️ Working with React.js, Next.js, JavaScript, and TypeScript.<br>🎨 I enjoy creating clean, responsive, and user-friendly interfaces.<br>🛠️ Currently learning backend development with Node.js and Express.js.<br>🚀 Continuously improving my skills to become  Fullstack Developer.
 
 
 ## 🌐 Socials:
