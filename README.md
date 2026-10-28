@@ -1,47 +1,27 @@
 <h2 align="left">Hey there 👋</h2>
 
 ###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm <b>Assia</b>  from Morocco <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" width="13"/>  <br><br>- 🔭 I’m working as Freelance FontEnd Developer <br>- 📚 I'm currently learning NextJS<br>- ⚡ In my free time I ...</p>
-
-###
-  
-<h3>🛠 Things I code with</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Nextjs" src="https://img.shields.io/badge/next-js?style=flat-square&logo=nextdotjs&logoColor=%23FFFFFF&color=%23000000" />
-  <img alt="Javascript" src="https://img.shields.io/badge/javascript-js?style=flat-square&logo=javascript&logoColor=%23000000&color=%23F7DF1E" />
-   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-   <img alt="css3" src="https://img.shields.io/badge/css-css?style=flat-square&logo=css3&logoColor=%23ffffff&color=%231572B6" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-   <img alt="boostrap" src="https://img.shields.io/badge/bootstrap-css?style=flat-square&logo=bootstrap&logoColor=%23ffffff&color=%237952B3" />
-   <img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-css?style=flat-square&logo=tailwindcss&logoColor=%23ffffff&color=%2306B6D4" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="figma" src="https://img.shields.io/badge/figma-figma?style=flat-square&logo=figma&logoColor=%23ffffff&color=%23F24E1E" />
-</p>
+# 💫 About Me:
+👩‍💻 Frontend Developer passionate about building modern web applications.<br>⚛️ Working with React.js, Next.js, JavaScript, and TypeScript.<br>🎨 I enjoy creating clean, responsive, and user-friendly interfaces.<br>🛠️ Currently learning backend development with Node.js and Express.js.<br>🚀 Continuously improving my skills to become  Software Engineer.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/assia-chemlali) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AssiaChemlali&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=AssiaChemlali&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AssiaChemlali&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AssiaChemlali&hide_progress=true)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+[![](https://komarev.com/ghpvc/?username=AssiaChemlali&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <h3>Where to find me</h3>
-<p><a href="https://github.com/AssiaChemlali" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-github?logo=github&color=%23181717" /></a> 
-   <a href="https://www.linkedin.com/in/assia-chemlali/" target="_blank"><img alt="linkden" src="https://img.shields.io/badge/Linkedin-linkedin?style=flat-square&logo=Linkedin&logoColor=%23ffffff&color=%230A66C2" /></a> 
-   <a href="https://www.instagram.com/assiachemlali/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/instagram-instagram?style=flat-square&logo=instagram&logoColor=%23ffffff&color=%23E4405F" /></a>
-    <a href="https://x.com/Assia_chemlalii" target="_blank"><img alt="X" src="https://img.shields.io/badge/x-x?logo=x&color=%23000000" /></a> 
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
